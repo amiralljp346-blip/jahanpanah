@@ -1,0 +1,6 @@
+[INIT] Checking if database is initialized...
+[INIT] Database already initialized (persons table exists).
+[MIGRATION] Ensuring System Admin role has all permissions...
+[MIGRATION] Successfully updated permissions for 'مدیر سیستم'.
+
+[32m[SERVER_INFO] Backend server is running on http://localhost:4000[0m
